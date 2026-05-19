@@ -116,6 +116,48 @@ streamlit run app.py
 
 Python, JavaScript, TypeScript, JSX, TSX, Java, C, C++, C#, Go, Rust, Ruby, PHP, Swift, Kotlin, Scala, SQL, Shell Script
 
+## 📸 Screenshots
+
+### 1. Upload File Interface
+Upload your code files for analysis
+![Upload File](assets/screenshots/Arjun:%20Upload%20File.png)
+
+### 2. Preview Uploaded File
+Preview the file content before analysis
+![Preview File](assets/screenshots/Arjun:%20Preview%20uploaded%20file.png)
+
+### 3. View Previewed File
+Detailed view of the uploaded file
+![View Previewed File](assets/screenshots/Arjun:%20View%20previewed%20file.png)
+
+### 4. Analyze Code
+Start the code review analysis with Arjun
+![Analyze Code](assets/screenshots/Arjun:%20Analyze%20code.png)
+
+### 5. New Issues Detected
+View newly detected issues with severity, line numbers, and solutions
+![New Issues](assets/screenshots/Arjun:%20New%20Issues.png)
+
+### 6. Existing Issues
+Previously detected but unresolved issues on file upload
+![Existing Issues](assets/screenshots/Arjun:%20Exisiting%20issues%20on%20file%20upload.png)
+
+### 7. Empty Existing Issues
+When no existing issues are found
+![Empty Existing Issues](assets/screenshots/Arjun:%20Empty%20Existing%20Issues.png)
+
+### 8. Persisted Global Stats
+Track metrics across all scans
+![Global Stats](assets/screenshots/Arjun:%20Persisted%20Global%20Stats.png)
+
+### 9. Rescanning After Fixes
+Re-analyze the file after applying suggested fixes
+![Rescanning File](assets/screenshots/Arjun:%20Rescanning%20the%20file%20after%20fixes.png)
+
+### 10. Updated Metrics After Rescan
+Metrics updated with improved issue resolution rates
+![Updated Metrics](assets/screenshots/Arjun:%20Rescans%20with%20updated%20metrics.png)
+
 ## 📁 Project Structure
 
 ```
